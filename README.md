@@ -11,6 +11,7 @@ Algorithm Steps:
 Sample Input and Output:
 Input: [12, 11, 13, 5, 6]
 Output: [5, 6, 11, 12, 13]
+<img width="348" height="122" alt="image" src="https://github.com/user-attachments/assets/2c0de632-25d9-4c39-85d2-55ce099c253c" />
 
 Time Complexity:
 Best Case: Ω(n) (When the array is already sorted)
